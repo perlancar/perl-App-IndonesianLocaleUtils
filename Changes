@@ -1,4 +1,4 @@
-0.01    2015-07-10 (PERLANCAR)
+0.01    2015-07-10  Released-By: PERLANCAR
 
         - First release. Created to put split Perinci::CmdLine scripts from
           Locale::ID::{Locality,Province}.
