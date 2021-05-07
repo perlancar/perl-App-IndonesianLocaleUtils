@@ -1,3 +1,10 @@
+0.02    2021-05-07  Released-By: PERLANCAR; Urgency: medium
+
+	- [incompatible change] Update to newer Locale::ID::Province &
+	  Locale::ID::Locality (renamed CLIs
+	  list-id{,n}-{provinces,localities}.
+
+
 0.01    2015-07-10  Released-By: PERLANCAR
 
         - First release. Created to put split Perinci::CmdLine scripts from
