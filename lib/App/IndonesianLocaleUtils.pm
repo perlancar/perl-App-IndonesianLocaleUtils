@@ -1,8 +1,11 @@
 package App::IndonesianLocaleUtils;
 
 use 5.010001;
+use strict;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;
